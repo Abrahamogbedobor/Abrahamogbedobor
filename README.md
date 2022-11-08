@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Bryan4luv
 [instagram]: https://www.instagram.com/Tellittobryan
-[linkedin]: https://linkedin.com/in/Abraham-ogbedobor
+[linkedin]: https://linkedin.com/in/abraham-ogbedobor
