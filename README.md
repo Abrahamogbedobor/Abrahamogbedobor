@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abraham, an <a href="https://linkedin.com/in/abraham-ogbedobor">IT Professional</a>☺</h1>
+<h1>Hi, I'm Abraham, an <a href="https://linkedin.com/in/abrahamogbe">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Bryan4luv
 [instagram]: https://www.instagram.com/Tellittobryan
-[linkedin]: https://linkedin.com/in/abraham-ogbedobor
+[linkedin]: https://linkedin.com/in/abrahamogbe
