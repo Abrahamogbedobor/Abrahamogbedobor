@@ -9,7 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Abrahamogbedobor/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Abrahamogbedobor/azure-network-protocols)
-
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Abrahamogbedobor/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Abrahamogbedobor/azure-network-protocols)
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Bryan4luv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
