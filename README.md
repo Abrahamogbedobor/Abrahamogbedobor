@@ -6,10 +6,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Abrahamogbedobor/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Abrahamogbedobor/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Abrahamogbedobor/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure Virtual Machines</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Abrahamogbedobor/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Abrahamogbedobor/azure-network-protocols)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure Networking/Security</b>
   - [Setting and configuring Proton VPN within Azure VMs](https://github.com/Abrahamogbedobor/setting-up-VPNs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Abrahamogbedobor/azure-network-protocols)
   
