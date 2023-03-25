@@ -8,7 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Abrahamogbedobor/ticket-lifecycle)
 - <b>Microsoft Azure Virtual Machines</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Abrahamogbedobor/configure-ad)
-  - [Domain Name Server (DNS) and Network File Sharing](https://github.com/Abrahamogbedobor/azure-DNS)
+  - [Domain Name System (DNS) and Network Server](https://github.com/Abrahamogbedobor/azure-DNS)
+  - [Network File Sharing (NFS)](https://github.com/Abrahamogbedobor/azure-Network-File-Sharing)
 - <b>Microsoft Azure Networking/Security</b>
   - [Setting and configuring Proton VPN within Azure VMs](https://github.com/Abrahamogbedobor/setting-up-VPNs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Abrahamogbedobor/azure-network-protocols)
