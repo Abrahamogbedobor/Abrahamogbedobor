@@ -13,6 +13,10 @@
 - <b>Microsoft Azure Networking/Security</b>
   - [Setup and Configuring Proton VPN within Azure VMs](https://github.com/Abrahamogbedobor/setting-up-VPNs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Abrahamogbedobor/azure-network-protocols)
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
   
 <h2>🤳Connect with me:</h2>
 
