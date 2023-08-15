@@ -16,7 +16,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Network Traffic (Analysing Packet Data with Wireshark)</b>
   
 <h2>🤳Connect with me:</h2>
 
