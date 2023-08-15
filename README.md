@@ -16,15 +16,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Analyzing Packet Capture Data with Wireshark</b>
+- <b>Analyzing Packet Capture File with Wireshark</b>
   - [Open Capture File: Using Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   - [Explore Packet Data: Using Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   - [Apply a Basic Filter for Inspection: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   - [Using Filters to Select Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   - [Using Filters to Explore DNS Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   - [Using Filters to Explore TCP Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
-- <b>Analyzing Packet Capture Data with Wireshark</b>
-  
+- <b>Capture and Analyze Live Network Traffic using tcpdump</b>
+   - [Open Capture File: Using Wireshark](https://github.com/Abrahamogbedobor/)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Bryan4luv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
