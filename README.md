@@ -24,7 +24,7 @@
   - [Using Filters to Explore DNS Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   - [Using Filters to Explore TCP Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
 - <b>Capture and Analyze Live Network Traffic using tcpdump</b>
-   - [Open Capture File: Using Wireshark](https://github.com/Abrahamogbedobor/tcpdump-capture-capture)
+   - [Open Capture File: Using Wireshark](https://github.com/Abrahamogbedobor/tcpdump-network-capture)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Bryan4luv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
