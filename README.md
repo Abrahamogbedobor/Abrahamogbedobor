@@ -16,7 +16,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Traffic (Analysing Packet Data with Wireshark)</b>
+- <b>Packet Data (Analyzing Packet Data with Wireshark)</b>
+  - [Packet Data: Analyzing Packet Data](https://github.com/Abrahamogbedobor/wireshark-analysis)
   
 <h2>🤳Connect with me:</h2>
 
