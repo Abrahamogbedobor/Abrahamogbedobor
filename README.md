@@ -16,10 +16,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Analyzing Packet Data with Wireshark</b>
+- <b>Analyzing Packet Capture Data with Wireshark</b>
   - [Open Capture File: Using Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
-  - [Analyze Packet Information: Using Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
-  - [Apply Filter: Using Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
+  - [Explore Packet Data: Using Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
+  - [Apply a Basic Filter for Inspection: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
+  - [Using Filters to Select Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
+  - [Using Filters to Explore DNS Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
+  - [Using Filters to Explore TCP Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   
 <h2>🤳Connect with me:</h2>
 
