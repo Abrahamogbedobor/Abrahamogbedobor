@@ -23,6 +23,7 @@
   - [Using Filters to Select Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   - [Using Filters to Explore DNS Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
   - [Using Filters to Explore TCP Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
+- <b>Analyzing Packet Capture Data with Wireshark</b>
   
 <h2>🤳Connect with me:</h2>
 
