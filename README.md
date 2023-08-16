@@ -17,12 +17,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Analyzing Packet Capture File with Wireshark</b>
-  - [Open Capture File: Using Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
-  - [Explore Packet Data: Using Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
-  - [Apply a Basic Filter for Inspection: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
-  - [Using Filters to Select Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
-  - [Using Filters to Explore DNS Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
-  - [Using Filters to Explore TCP Packets: Wireshark](https://github.com/Abrahamogbedobor/wireshark-analysis)
+  - [Using Wireshark for Packets Analysis and Investigation](https://github.com/Abrahamogbedobor/wireshark-analysis)
 - <b>Capture and Analyze Live Network Traffic using tcpdump</b>
    - [Using Tcpdump in the Linux Command-Line (Bash Shell)](https://github.com/Abrahamogbedobor/tcpdump-network-capture)
 <h2>🤳Connect with me:</h2>
