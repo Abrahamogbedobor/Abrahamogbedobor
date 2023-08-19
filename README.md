@@ -21,7 +21,7 @@
 - <b>Captured and Analyze Live Network Traffic using tcpdump</b>
    - [Using Tcpdump in the Linux Command-Line (Bash Shell)](https://github.com/Abrahamogbedobor/tcpdump-network-capture)
 - <b>Investigated IOC with VirusTotal</b>
-   - [Phishing attacks investigation](https://github.com/Abrahamogbedobor/t)
+   - [Phishing attacks investigation](https://github.com/Abrahamogbedobor/suspicious_file_hash)
 - <b>Encrytping and Decrypting Information </b>
    - [Security Controls: Cryptography](https://github.com/Abrahamogbedobor/t)
 <h2>🤳Connect with me:</h2>
