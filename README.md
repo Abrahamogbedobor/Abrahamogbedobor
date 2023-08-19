@@ -16,12 +16,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Analyzing Packet Capture File with Wireshark</b>
+- <b>Analyzed Packet Capture File with Wireshark</b>
   - [Using Wireshark for Packets Analysis and Investigation](https://github.com/Abrahamogbedobor/wireshark-analysis)
-- <b>Capture and Analyze Live Network Traffic using tcpdump</b>
+- <b>Captured and Analyze Live Network Traffic using tcpdump</b>
    - [Using Tcpdump in the Linux Command-Line (Bash Shell)](https://github.com/Abrahamogbedobor/tcpdump-network-capture)
-- <b>Investigation Phishing Attack with VirusTotal</b>
-   - [Using](https://github.com/Abrahamogbedobor/t)
+- <b>Investigated IOC with VirusTotal</b>
+   - [Phishing attacks investigation](https://github.com/Abrahamogbedobor/t)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Bryan4luv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
