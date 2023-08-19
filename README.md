@@ -22,8 +22,8 @@
    - [Using Tcpdump in the Linux Command-Line (Bash Shell)](https://github.com/Abrahamogbedobor/tcpdump-network-capture)
 - <b>Investigated IOC with VirusTotal</b>
    - [Phishing attacks investigation](https://github.com/Abrahamogbedobor/suspicious_file_hash)
-- <b>Encrytping and Decrypting Information </b>
-   - [Security Controls: Cryptography](https://github.com/Abrahamogbedobor/t)
+- <b>Security Controls in Linux Environment</b>
+   - [Decrypting an Encrypted File: Cryptography](https://github.com/Abrahamogbedobor/t)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Bryan4luv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
