@@ -23,7 +23,7 @@
 - <b>Investigated IOC with VirusTotal</b>
    - [Phishing attacks investigation](https://github.com/Abrahamogbedobor/suspicious_file_hash)
 - <b>Security Controls in Linux Environment</b>
-   - [Decrypting an Encrypted File: Cryptography](https://github.com/Abrahamogbedobor/t)
+   - [Decrypting an Encrypted File: Cryptography](https://github.com/Abrahamogbedobor/cryptography_techniques)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Bryan4luv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
