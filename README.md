@@ -32,4 +32,4 @@
 
 [twitter]: https://twitter.com/Bryan4luv
 [instagram]: https://www.instagram.com/Tellittobryan
-[linkedin]: https://linkedin.com/in/abrahamogbe
+[linkedin]: https://linkedin.com/in/ogbe-abraham
